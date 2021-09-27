@@ -11,7 +11,6 @@ namespace RecordBookApplication.EntryPoint
     {
         static void Main(string[] args)
         {
-            string filePath = Path.GetFullPath("grades.txt");
             Book book = new();
             //Create Helper class for Sorting & Searching
             bool quit = false;

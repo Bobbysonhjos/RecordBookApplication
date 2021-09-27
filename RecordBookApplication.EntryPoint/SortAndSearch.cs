@@ -8,6 +8,10 @@ namespace RecordBookApplication.EntryPoint
 {
     public static class SortAndSearch
     {
+        public static void BubbleSort(List<RecordBook> list)
+        {
 
+
+        }
     }
 }
